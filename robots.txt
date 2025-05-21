@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://siamsell.github.io/medical-image-gan/sitemap.xml
