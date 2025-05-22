@@ -37,7 +37,8 @@
   </div>
 </div>
 </div>
-## 📑 Table of Contents
+
+#  Table of Contents
 
 - [What is a GAN?](#what-is-a-gan)
 - [Project Description](#project-description)
