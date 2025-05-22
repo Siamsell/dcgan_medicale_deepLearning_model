@@ -201,8 +201,8 @@ cd medicale_IMG-with-deepLearning_model-gan
 pip install -r requirements.txt
 jupyter notebook dcgan-img-medical.ipynb
 ```
-
+---
 ## Authors
-SS | Sellami Siham
-BF | bedj bedj Fatma Zohra
-IS | Ikram Saidani
+# SS | Sellami Siham
+# BF | bedj bedj Fatma Zohra
+# IS | Ikram Saidani
