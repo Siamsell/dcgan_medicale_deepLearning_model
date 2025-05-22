@@ -37,6 +37,16 @@
   </div>
 </div>
 </div>
+## 📑 Table of Contents
+
+- [What is a GAN?](#what-is-a-gan)
+- [Project Description](#project-description)
+- [Technologies Used](#technologies-used)
+- [Live Demo](#live-demo)
+- [Dataset Details](#dataset-name-and-provider)
+- [Sample Results](#sample-results)
+- [Authors](#authors)
+- [Future Improvements](#future-improvements)
 
 #  Medical Image Synthesis with GANs
 The project entails employing **Generative Adversarial Networks (GANs)**—an ambitious class of deep learning models—to create realistic medical images. The method is used in the **DCGAN (Deep Convolutional GAN)** model with inspiration from **StyleGAN** for extra visual realism and diversity.
