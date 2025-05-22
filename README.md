@@ -115,7 +115,7 @@ We started the project from an open-source GAN repository on GitHub. The model a
 | fastai            | Training simplification             |
 | 3D Slicer         | DICOM image conversion              |
 ---
-##  Livale Demo
+
 
  **[GitHub Project Page](https://github.com/Siamsell/medical-image-gan)**
 ---
