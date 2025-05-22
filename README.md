@@ -21,6 +21,7 @@
   <img src="https://i.postimg.cc/zfm8LxmM/logo-1.png" width="800"  style="border-radius: 50%; object-fit: cover; border: 1px solid #eee; box-shadow: 0 8px 24px rgba(0,0,0,0.12); margin-top: 2rem;">
 </div>
 
+> Light GAN-based pipeline to create high-resolution and anatomically rich CT medical images with DCGAN and StyleGAN3.
 ## Key Features
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
   <div style="background: #F8F9FA; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
@@ -118,6 +119,14 @@ We started the project from an open-source GAN repository on GitHub. The model a
 
  **[GitHub Project Page](https://github.com/Siamsell/medical-image-gan)**
 ---
+## Performance Metrics
+
+| Metric       | DCGAN       | StyleGAN3    |
+|--------------|-------------|--------------|
+| FID Score    | 64.2        | 24.7         |
+| SSIM         | 0.69        | 0.83         |
+| Epochs       | 1000        | 100kimg      |
+
 ## Dataset Name and Provider
 - Dataset Name: Pancreas-CT
 - Provider: The Cancer Imaging Archive (TCIA)
