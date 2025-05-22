@@ -40,13 +40,13 @@
 </div>
 
 #  Table of Contents
-- [Medical Image Synthesis with GANs](#Medical Image Synthesis with GANs)
+- [Medical Image Synthesis with GANs](#Medical-Image-Synthesis-with-GANs)
 - [What is a GAN?](#what-is-a-gan)
 - [Project Description](#project-description)
 - [Technologies Used](#technologies-used)
 - [Dataset Details](#dataset-name-and-provider)
 - [Performance Metrics](#Performance-Metrics)
-   - [How it works](#How-It-Works)
+- [How it works](#How-It-Works)
 - [Sample Results](#sample-results)
 - [Authors](#authors)
 - [Future Improvements](#future-improvements)
