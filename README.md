@@ -152,7 +152,7 @@ was also trained for the generation of realistic fake abdominal CT slices.
 ![DCGAN](https://i.postimg.cc/7Y2XZhm9/output-epoch-1000.png)
 ### Training Losses DCGAN
 
-![Training Loss](https://od.lk/s/ODZfNjk0MTc1NTZf/DIAGDCGAN.jpg)
+![Training Loss](https://i.postimg.cc/Vkt5Hrmx/DIAGDCGAN.jpg)
 ---
 ## Authors
 # SS | Sellami Siham
