@@ -188,7 +188,7 @@ was also trained for the generation of realistic fake abdominal CT slices.
 ---
 
 ## Future Improvements
-
+---
 - Use high-end **StyleGAN2/3** modules
 - Ranked by metrics such as **FID** or **IS**
 - Use a **web-based interactive generator**
