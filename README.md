@@ -43,7 +43,6 @@
 - [What is a GAN?](#what-is-a-gan)
 - [Project Description](#project-description)
 - [Technologies Used](#technologies-used)
-- [Live Demo](#live-demo)
 - [Dataset Details](#dataset-name-and-provider)
 - [Sample Results](#sample-results)
 - [Authors](#authors)
