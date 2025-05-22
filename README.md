@@ -178,7 +178,7 @@ was also trained for the generation of realistic fake abdominal CT slices.
 - ## Quick Start
 
 ```bash
-git clone https://github.com/Siamsell/medical-image-gan.git
-cd medical-image-gan
+git clone https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan.git
+cd medicale_IMG-with-deepLearning_model-gan
 pip install -r requirements.txt
 jupyter notebook dcgan-img-medical.ipynb
