@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://od.lk/s/ODZfNjkzODQ1MTZf/logo%20%281%29.png" width="800"  style="border-radius: 50%; object-fit: cover; border: 1px solid #eee; box-shadow: 0 8px 24px rgba(0,0,0,0.12); margin-top: 2rem;">
+  <img src="https://i.postimg.cc/zfm8LxmM/logo-1.png" width="800"  style="border-radius: 50%; object-fit: cover; border: 1px solid #eee; box-shadow: 0 8px 24px rgba(0,0,0,0.12); margin-top: 2rem;">
 </div>
 
 ## Key Features
@@ -141,15 +141,15 @@ and curated dataset, a Deep Convolutional Generational Adversarial Network (DCGA
 was also trained for the generation of realistic fake abdominal CT slices.
 ## Sample Results
 ### DCGAN-Inspired Output (300 epoch with size 64)
-![DCGAN](https://od.lk/s/ODZfNjkzODM2OTRf/dcgansimple.jpg)
+![DCGAN](https://i.postimg.cc/brrKVnck/output-epoch-399.png)
 
 ### StyleGAN-Inspired Output (100kimg)256*256
 
-![StyleGAN](https://od.lk/s/ODZfNjkzODM2OTZf/stylegan.jpg)
+![StyleGAN](https://i.postimg.cc/XNQcNFf9/fakes000100-1.png)
 
 ### DCGAN-Inspired Output (1000 epoch with size 256)
 
-![DCGAN](https://od.lk/s/ODZfNjk0MTc1NDJf/1000epc.jpg)
+![DCGAN](https://i.postimg.cc/7Y2XZhm9/output-epoch-1000.png)
 ### Training Losses DCGAN
 
 ![Training Loss](https://od.lk/s/ODZfNjk0MTc1NTZf/DIAGDCGAN.jpg)
