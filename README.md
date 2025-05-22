@@ -40,14 +40,17 @@
 </div>
 
 #  Table of Contents
-
+- [Medical Image Synthesis with GANs](#Medical Image Synthesis with GANs)
 - [What is a GAN?](#what-is-a-gan)
 - [Project Description](#project-description)
 - [Technologies Used](#technologies-used)
 - [Dataset Details](#dataset-name-and-provider)
+- [Performance Metrics](#Performance-Metrics)
+   - [How it works](#How-It-Works)
 - [Sample Results](#sample-results)
 - [Authors](#authors)
 - [Future Improvements](#future-improvements)
+
 
 #  Medical Image Synthesis with GANs
 The project entails employing **Generative Adversarial Networks (GANs)**—an ambitious class of deep learning models—to create realistic medical images. The method is used in the **DCGAN (Deep Convolutional GAN)** model with inspiration from **StyleGAN** for extra visual realism and diversity.
@@ -158,6 +161,7 @@ After the removal of all such blank slices, the cleaned collection of JPEG image
 then uploaded to Kaggle again as a cleaned curated dataset. Subsequent to this cleaned
 and curated dataset, a Deep Convolutional Generational Adversarial Network (DCGAN)
 was also trained for the generation of realistic fake abdominal CT slices.
+
 ## How It Works
 
 1. Convert raw DICOM to JPG slices using `pydicom`
@@ -200,3 +204,4 @@ git clone https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan.g
 cd medicale_IMG-with-deepLearning_model-gan
 pip install -r requirements.txt
 jupyter notebook dcgan-img-medical.ipynb
+
