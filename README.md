@@ -164,6 +164,7 @@ was also trained for the generation of realistic fake abdominal CT slices.
 
 ![Training Loss](https://i.postimg.cc/Vkt5Hrmx/DIAGDCGAN.jpg)
 ---
+
 ## Authors
 # SS | Sellami Siham
 # BF | bedj bedj Fatma Zohra
@@ -171,7 +172,13 @@ was also trained for the generation of realistic fake abdominal CT slices.
 ## Future Improvements
 
 - Use high-end **StyleGAN2/3** modules
-
 - Ranked by metrics such as **FID** or **IS**
 - Use a **web-based interactive generator**
 - Train on **larger and labeled datasets**
+- ## Quick Start
+
+```bash
+git clone https://github.com/Siamsell/medical-image-gan.git
+cd medical-image-gan
+pip install -r requirements.txt
+jupyter notebook dcgan-img-medical.ipynb
