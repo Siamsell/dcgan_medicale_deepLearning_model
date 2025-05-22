@@ -158,6 +158,15 @@ After the removal of all such blank slices, the cleaned collection of JPEG image
 then uploaded to Kaggle again as a cleaned curated dataset. Subsequent to this cleaned
 and curated dataset, a Deep Convolutional Generational Adversarial Network (DCGAN)
 was also trained for the generation of realistic fake abdominal CT slices.
+## How It Works
+
+1. Convert raw DICOM to JPG slices using `pydicom`
+2. Preprocess slices to 256×256 grayscale images
+3. Train DCGAN and StyleGAN3 separately
+4. Monitor training losses + visual outputs
+5. Evaluate image quality with FID/SSIM
+6. Output synthetic images for medical education or augmentation
+
 ## Sample Results
 ### DCGAN-Inspired Output (300 epoch with size 64)
 ![DCGAN](https://i.postimg.cc/brrKVnck/output-epoch-399.png)
